@@ -1,0 +1,20 @@
+# Eclipse
+.classpath
+.project
+.settings/
+how-to-deploy.readme
+
+# Compile
+target/*
+/target/
+
+# SQL
+src/main/resources/sql/
+src/test/resources/sql/
+*.sql
+
+# Hibernate
+hibernate.cfg.xml
+
+# Properties
+*.properties
