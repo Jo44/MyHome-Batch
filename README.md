@@ -13,7 +13,7 @@ Ce batch permet d'effectuer quotidiennement des tâches de maintenance dans la b
 
 # Link (Web)
 
-* GitHub MyHome :  
+* GitHub - MyHome :  
 https://github.com/Jo44/MyHome  
 
 # Changelog
