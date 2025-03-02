@@ -1,20 +1,9 @@
-# Eclipse
+.git
+.settings
+src/main/resources/sql
+src/main/resources/*.properties
+src/main/resources/hibernate.cfg.xml
+src/main/resources/*.readme
+target
 .classpath
 .project
-.settings/
-how-to-deploy.readme
-
-# Compile
-target/*
-/target/
-
-# SQL
-src/main/resources/sql/
-src/test/resources/sql/
-*.sql
-
-# Hibernate
-hibernate.cfg.xml
-
-# Properties
-*.properties
