@@ -11,9 +11,11 @@ Ce batch permet d'effectuer quotidiennement des tâches de maintenance dans la b
 * Email de notification hebdomadaire à l'administrateur  
   * Tous les Lundi entre 7h et 7h30  
 
-# Link (Web)
+# Web
 
-* GitHub - MyHome :  
+* MyHome :  
+https://my-home.ovh  
+* Projet GitHub - MyHome :  
 https://github.com/Jo44/MyHome  
 
 # Changelog
