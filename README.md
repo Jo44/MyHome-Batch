@@ -1,6 +1,6 @@
 # MyHome - Batch
 
-Ce batch permet d'effectuer quotidiennement des tâches de maintenance dans la base de données du site web my-home.ovh, à savoir :  
+Ce batch permet d'effectuer les tâches de maintenance quotidiennes du site web my-home.ovh, à savoir :  
 
 * Suppression des utilisateurs non activés après 72h  
   * Tous les jours entre 6h et 6h30  
